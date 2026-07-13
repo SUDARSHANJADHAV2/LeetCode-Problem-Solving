@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1291-sequential-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
