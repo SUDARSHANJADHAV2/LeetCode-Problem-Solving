@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
