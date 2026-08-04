@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [1260-shift-2d-grid](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0011-container-with-most-water) |
 ## Matrix
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
