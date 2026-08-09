@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0011-container-with-most-water) |
+| [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0013-roman-to-integer) |
+| [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
+| [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -141,4 +144,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
