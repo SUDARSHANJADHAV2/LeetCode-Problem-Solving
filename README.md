@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3731-find-missing-elements) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
 | ------- |
