@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
