@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1927-sum-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [1927-sum-game](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
