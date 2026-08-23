@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0016-3sum-closest) |
 | [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0016-3sum-closest) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0016-3sum-closest) |
 ## Matrix
 |  |
 | ------- |
