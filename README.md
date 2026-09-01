@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/2685-count-the-number-of-complete-components) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
 |  |
 | ------- |
