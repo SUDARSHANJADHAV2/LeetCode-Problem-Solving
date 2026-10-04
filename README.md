@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0035-search-insert-position) |
 | [1140-stone-game-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
