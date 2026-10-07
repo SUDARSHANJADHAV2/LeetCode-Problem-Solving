@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [2685-count-the-number-of-complete-components](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/2685-count-the-number-of-complete-components) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0301-remove-invalid-parentheses](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0301-remove-invalid-parentheses](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SUDARSHANJADHAV2/LeetCode-Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
